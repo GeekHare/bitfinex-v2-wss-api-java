@@ -1,0 +1,8 @@
+<settings>
+    <servers>
+        <server>
+            <id>github</id>
+            <password>PAT-TOKEN</password>
+        </server>
+    </servers>
+</settings>
